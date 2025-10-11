@@ -1,0 +1,13 @@
+package HomeWork;
+
+public class BraceCheckerTest {
+    public static void main(String[] args) {
+        BraceChecker bc1 = new BraceChecker("Hello from [Java]");
+        bc1.check();
+
+        System.out.println("---------------------------------");
+
+        BraceChecker bc2 = new BraceChecker("Hello from [java)");
+        bc2.check();
+    }
+}

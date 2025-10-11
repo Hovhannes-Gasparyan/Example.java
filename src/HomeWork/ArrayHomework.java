@@ -52,7 +52,7 @@ public class ArrayHomework {
         char[] chars = {'բ', 'ա', 'ր', 'և', 'ա', 'շ', 'խ', 'ա', 'ր', 'հ'};
         char[] vowels = {'ա', 'ե', 'է', 'ի', 'ո', 'օ','և'};
         count = 0;
-        for (i = 0; i < ; i++) {
+        for (i = 0; i <1 ; i++) {
 
         }
 
